@@ -1,0 +1,13 @@
+Login Credentials:
+Admin:
+
+Email: admin@example.com
+Password: password
+Teacher:
+
+Email: john@example.com
+Password: password
+Student:
+
+Email: alice@example.com
+Password: password
